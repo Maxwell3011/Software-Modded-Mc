@@ -12,7 +12,7 @@ Længere nede er forklaret hvordan i sender jeres ønsker ind.
 --- 
 ## Videoguide til opsætning og opdatering
 
-[//]<[![Videoguide](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)PLACEHOLDER>
+[![Videoguide](https://img.youtube.com/vi/BUfAB2XJmPg/0.jpg)](https://www.youtube.com/watch?v=BUfAB2XJmPg)
 
 ---
 
