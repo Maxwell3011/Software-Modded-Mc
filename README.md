@@ -30,7 +30,7 @@ Længere nede er forklaret hvordan i sender jeres ønsker ind.
 1. Åben **Prism Launcher**.
 2. Click **Add Instance** (Øverste venstre hjørne).
 3. Vælg **Import** fra venstre sidebar.
-4. Click **Browse**, og vælg den downloadede `.mrpack` fil, og tryk **OK**.
+4. Click **Browse**, og vælg den downloadede `.mrpack` fil, og tryk **OK**. (Hvis den snakker om "malicious filer" er det fordi der er mods med som kun kan findes fra curseforge, hvilket prism ikke er super glad for. Jeg lover dog at de ikke er farlige :suspect:)
 5. Prism sætter nu automatisk modpacken op, når den er færdig kan du starte modpacken ved at trykke **Launch** i højre side.
 
 ---
